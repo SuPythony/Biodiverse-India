@@ -180,14 +180,14 @@
 								</div>
 							</div>
 							<p>
-								Definition: Tropical deciduous forests occur in regions with heavy rainfall for part
-								of the year followed by a marked dry season. These forest formations are dense and
-								lush during the wet summers, but become a dry landscape during the dry winters when
-								most trees shed their leaves. Shedding their leaves allows trees to conserve water
-								during dry periods. Bare trees open up the canopy layer, enabling sunlight to reach
-								ground level and facilitate the growth of thick underbrush. Trees use underground
-								water during the dry seasons. These dramatic changes in water availability have a
-								great impact on the plants and animals living in this ecosystem.
+								Tropical deciduous forests occur in regions with heavy rainfall for part of the year
+								followed by a marked dry season. These forest formations are dense and lush during
+								the wet summers, but become a dry landscape during the dry winters when most trees
+								shed their leaves. Shedding their leaves allows trees to conserve water during dry
+								periods. Bare trees open up the canopy layer, enabling sunlight to reach ground
+								level and facilitate the growth of thick underbrush. Trees use underground water
+								during the dry seasons. These dramatic changes in water availability have a great
+								impact on the plants and animals living in this ecosystem.
 							</p>
 						</div>
 					{/if}
