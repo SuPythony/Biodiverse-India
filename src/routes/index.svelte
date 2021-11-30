@@ -705,10 +705,7 @@
 					flora and fauna is a play of wondrous colours and characteristics and has truly
 					contributed to making India one of the most beautiful countries in the world.
 					<br /><br />
-					Made by Sumanyu Aggarwal (<a
-						href="https://github.com/SuPythony"
-						class="underline text-blue-400">@SuPythony</a
-					>)
+					Made by Sumanyu Aggarwal
 					<br /><br />
 				</p>
 				<a href="https://github.com/SuPythony/Biodiverse-India"
