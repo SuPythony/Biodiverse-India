@@ -699,8 +699,8 @@
 		<Card title="Thank You!">
 			<div class="relative top-32 flex justify-center items-center w-full">
 				<p class="text-center text-xl">
-					I hope you are as enthralled by the biodiversity of India as much as I am! India's variety
-					of flora and fauna is a play of wondrous colours and characteristics and has truly
+					I hope you are as enthralled by the biodiversity of India as I am! India's variety of
+					flora and fauna is a play of wondrous colours and characteristics and has truly
 					contributed to making India one of the most beautiful countries in the world.
 				</p>
 			</div>
