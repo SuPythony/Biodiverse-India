@@ -1,3 +1,7 @@
+<script lang="ts" context="module">
+	export const prerender = true;
+</script>
+
 <script lang="ts">
 	import Cards from "$lib/components/Cards.svelte";
 	import Card from "$lib/components/Card.svelte";
