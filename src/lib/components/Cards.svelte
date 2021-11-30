@@ -9,7 +9,7 @@
 	export let noOfCards = 0;
 </script>
 
-<div class="flex items-center justify-center w-full h-screen">
+<div class="flex items-center justify-center w-full h-screen mt-auto">
 	<div
 		class="change-button"
 		class:disabled={$openIndex === 0}
