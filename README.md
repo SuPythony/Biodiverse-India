@@ -2,4 +2,4 @@
 
 A website showcasing the vivid biodiversity of India. Made for a school project.
 
-Made using SvelteKit, TailwindCSS and deployed with Netlify.
+Made using SvelteKit, Typescript, TailwindCSS, SCSS and deployed with Netlify.
