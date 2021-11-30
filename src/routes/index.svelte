@@ -116,7 +116,7 @@
 		</Card>
 		<Card title="Forests">
 			<p>
-				The major types of forests found in India are:
+				The major types of forests found in India are: (Tap to learn more about the forest)
 				<br /><br />
 			</p>
 			<svelte:component this={Carousel}>
