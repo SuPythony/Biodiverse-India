@@ -41,7 +41,7 @@
 </script>
 
 <div
-	class="flex justify-between items-center mb-3 hover:cursor-pointer border-b-2 border-gray-500"
+	class="flex justify-between items-center mb-3 hover:cursor-pointer border-b-2 border-hrColor"
 	on:click={() => {
 		open = !open;
 	}}
@@ -130,7 +130,7 @@
 
 <style lang="scss">
 	.option {
-		@apply flex items-center gap-2 text-base border-gray-400 border-2 p-1 min-w-35% rounded-md hover:cursor-pointer hover:bg-purple-300 hover:bg-opacity-40 transition-all;
+		@apply flex items-center gap-2 text-base border-hrColor border-2 p-1 min-w-35% rounded-md hover:cursor-pointer hover:bg-purple-300 hover:bg-opacity-40 transition-all;
 	}
 
 	.disabled {

@@ -19,7 +19,7 @@
 		on:focus={() => (hovering = true)}
 		on:mouseout={() => (hovering = false)}
 		on:blur={() => (hovering = false)}
-		class="no-underline border-b-2 border-dotted border-black"
+		class="no-underline border-b-2 border-dotted border-text"
 	>
 		{text}
 	</p>

@@ -32,6 +32,19 @@ const config = {
 			margin: {
 				"-50%": "-50%",
 			},
+			backgroundColor: (theme) => ({
+				...theme("colors"),
+				cardBg: "#4A5F00",
+			}),
+			borderColor: (theme) => ({
+				...theme("colors"),
+				hrColor: "white",
+				text: "white",
+			}),
+			textColor: (theme) => ({
+				...theme("colors"),
+				main: "white",
+			}),
 		},
 	},
 
