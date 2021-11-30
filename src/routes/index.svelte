@@ -12,6 +12,7 @@
 	import { scale } from "svelte/transition";
 	import MdClose from "svelte-icons/md/MdClose.svelte";
 	import { openIndex } from "$lib/stores";
+	import FaGithub from "svelte-icons/fa/FaGithub.svelte";
 
 	let forestClicked = 0;
 	let Carousel;
@@ -116,7 +117,8 @@
 		</Card>
 		<Card title="Forests">
 			<p>
-				The major types of forests found in India are: (Tap to learn more about the forest)
+				The major types of forests found in India are:
+				<span class="invisible md:visible">(Tap to learn more about the forest)</span>
 				<br /><br />
 			</p>
 			<svelte:component this={Carousel}>
@@ -697,12 +699,21 @@
 			</Question>
 		</Card>
 		<Card title="Thank You!">
-			<div class="relative top-32 flex justify-center items-center w-full">
+			<div class="relative top-22 flex flex-col justify-center items-center w-full">
 				<p class="text-center text-xl">
 					I hope you are as enthralled by the biodiversity of India as I am! India's variety of
 					flora and fauna is a play of wondrous colours and characteristics and has truly
 					contributed to making India one of the most beautiful countries in the world.
+					<br /><br />
+					Made by Sumanyu Aggarwal (<a
+						href="https://github.com/SuPythony"
+						class="underline text-blue-400">@SuPythony</a
+					>)
+					<br /><br />
 				</p>
+				<a href="https://github.com/SuPythony/Biodiverse-India"
+					><div class="w-8 h-8"><FaGithub /></div></a
+				>
 			</div>
 		</Card>
 	</Cards>
